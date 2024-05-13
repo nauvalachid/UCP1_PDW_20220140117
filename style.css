@@ -1,0 +1,20 @@
+.home{
+    padding-top: 3rem;
+    background-color: #040404a9;   
+    }
+
+    footer {
+        border-top: 5px solid #ff0000; /* Garis putih dengan ketebalan 5px */
+        width: 100%; /* Lebar 100% */
+        margin-top: 50px; /* Margin atas 50px */
+        padding-top: 20px; /* Padding atas 20px */
+        padding-bottom: 20px; /* Padding bawah 20px */
+    }
+    
+    .btn {
+        font-family:  'Bradley Hand ITC', cursive; color: rgb(0, 0, 0);
+    }
+    
+    .card-body {
+        font-family:'Bauhaus 93', sans-serif; 
+    }
